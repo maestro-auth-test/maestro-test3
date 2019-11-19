@@ -2,4 +2,8 @@
 <Project>
   <PropertyGroup>
   </PropertyGroup>
+  <!--Package versions-->
+  <PropertyGroup>
+    <microsoftdotnetarcadesdkPackageVersion>1.0</microsoftdotnetarcadesdkPackageVersion>
+  </PropertyGroup>
 </Project>
