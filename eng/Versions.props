@@ -4,6 +4,6 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <MicrosoftDotnetArcadeSdkPackageVersion>33.1.0</MicrosoftDotnetArcadeSdkPackageVersion>
+    <MicrosoftDotnetArcadeSdkPackageVersion>34.1.0</MicrosoftDotnetArcadeSdkPackageVersion>
   </PropertyGroup>
 </Project>
