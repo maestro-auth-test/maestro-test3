@@ -6,6 +6,6 @@
     "version": "2.1.300"
   },
   "msbuild-sdks": {
-    "Microsoft.DotNet.Arcade.Sdk": "22.1.0"
+    "Microsoft.DotNet.Arcade.Sdk": "23.1.0"
   }
 }
