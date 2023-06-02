@@ -6,7 +6,6 @@
   <PropertyGroup>
     <A1PackageVersion>
     </A1PackageVersion>
-    <A2PackageVersion>
-    </A2PackageVersion>
+    <A2PackageVersion>2.1.0</A2PackageVersion>
   </PropertyGroup>
 </Project>

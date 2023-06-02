@@ -6,9 +6,9 @@
       <Uri>https://github.com/maestro-auth-test/maestro-test2</Uri>
       <Sha />
     </Dependency>
-    <Dependency Name="A2" Version="">
+    <Dependency Name="A2" Version="2.1.0">
       <Uri>https://github.com/maestro-auth-test/maestro-test2</Uri>
-      <Sha />
+      <Sha>8460158878d4b7568f55d27960d4453877523ea6</Sha>
     </Dependency>
   </ProductDependencies>
   <ToolsetDependencies>
