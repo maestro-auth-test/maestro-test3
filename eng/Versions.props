@@ -4,11 +4,8 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <FooPackageVersion>
-    </FooPackageVersion>
-    <BarPackageVersion>
-    </BarPackageVersion>
-    <BazPackageVersion>
-    </BazPackageVersion>
+    <FooPackageVersion>1.1.0</FooPackageVersion>
+    <BarPackageVersion>2.1.0</BarPackageVersion>
+    <BazPackageVersion>1.3.0</BazPackageVersion>
   </PropertyGroup>
 </Project>
