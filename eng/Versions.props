@@ -6,5 +6,9 @@
   <PropertyGroup>
     <A1PackageVersion>1.1.0</A1PackageVersion>
     <A2PackageVersion>1.1.0</A2PackageVersion>
+    <B1PackageVersion>
+    </B1PackageVersion>
+    <B2PackageVersion>
+    </B2PackageVersion>
   </PropertyGroup>
 </Project>
