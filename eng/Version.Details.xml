@@ -10,6 +10,14 @@
       <Uri>https://github.com/maestro-auth-test/maestro-test2</Uri>
       <Sha>cc1a27107a1f4c4bc5e2f796c5ef346f60abb404</Sha>
     </Dependency>
+    <Dependency Name="B1" Version="2.1.0" CoherentParentDependency="A1">
+      <Uri>https://github.com/maestro-auth-test/maestro-test1</Uri>
+      <Sha>6b25b823cfd76929a3af66e9e72877281d6ee854</Sha>
+    </Dependency>
+    <Dependency Name="B2" Version="2.1.0" CoherentParentDependency="A1">
+      <Uri>https://github.com/maestro-auth-test/maestro-test1</Uri>
+      <Sha>6b25b823cfd76929a3af66e9e72877281d6ee854</Sha>
+    </Dependency>
   </ProductDependencies>
   <ToolsetDependencies>
   </ToolsetDependencies>
