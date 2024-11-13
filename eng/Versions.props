@@ -4,10 +4,8 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <Foob1440caaPackageVersion>
-    </Foob1440caaPackageVersion>
-    <Barb1440caaPackageVersion>
-    </Barb1440caaPackageVersion>
+    <Foob1440caaPackageVersion>1.1.0</Foob1440caaPackageVersion>
+    <Barb1440caaPackageVersion>2.1.0</Barb1440caaPackageVersion>
     <Fzzb1440caaPackageVersion>
     </Fzzb1440caaPackageVersion>
     <ASDb1440caaPackageVersion>
