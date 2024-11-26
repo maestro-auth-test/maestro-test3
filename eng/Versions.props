@@ -4,10 +4,8 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <Foode48d1c5PackageVersion>
-    </Foode48d1c5PackageVersion>
-    <Barde48d1c5PackageVersion>
-    </Barde48d1c5PackageVersion>
+    <Foode48d1c5PackageVersion>1.1.0</Foode48d1c5PackageVersion>
+    <Barde48d1c5PackageVersion>2.1.0</Barde48d1c5PackageVersion>
     <Fzzde48d1c5PackageVersion>
     </Fzzde48d1c5PackageVersion>
     <ASDde48d1c5PackageVersion>
