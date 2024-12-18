@@ -2,4 +2,15 @@
 <Project>
   <PropertyGroup>
   </PropertyGroup>
+  <!--Package versions-->
+  <PropertyGroup>
+    <Fooca577149PackageVersion>
+    </Fooca577149PackageVersion>
+    <Barca577149PackageVersion>
+    </Barca577149PackageVersion>
+    <Fzzca577149PackageVersion>
+    </Fzzca577149PackageVersion>
+    <ASDca577149PackageVersion>
+    </ASDca577149PackageVersion>
+  </PropertyGroup>
 </Project>
