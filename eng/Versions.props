@@ -4,10 +4,8 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <Fooca577149PackageVersion>
-    </Fooca577149PackageVersion>
-    <Barca577149PackageVersion>
-    </Barca577149PackageVersion>
+    <Fooca577149PackageVersion>1.1.0</Fooca577149PackageVersion>
+    <Barca577149PackageVersion>2.1.0</Barca577149PackageVersion>
     <Fzzca577149PackageVersion>
     </Fzzca577149PackageVersion>
     <ASDca577149PackageVersion>
