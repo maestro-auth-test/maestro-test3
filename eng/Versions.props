@@ -2,4 +2,15 @@
 <Project>
   <PropertyGroup>
   </PropertyGroup>
+  <!--Package versions-->
+  <PropertyGroup>
+    <Fooacff2005PackageVersion>
+    </Fooacff2005PackageVersion>
+    <Baracff2005PackageVersion>
+    </Baracff2005PackageVersion>
+    <Fzzacff2005PackageVersion>
+    </Fzzacff2005PackageVersion>
+    <ASDacff2005PackageVersion>
+    </ASDacff2005PackageVersion>
+  </PropertyGroup>
 </Project>
