@@ -4,10 +4,8 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <Fooacff2005PackageVersion>
-    </Fooacff2005PackageVersion>
-    <Baracff2005PackageVersion>
-    </Baracff2005PackageVersion>
+    <Fooacff2005PackageVersion>1.1.0</Fooacff2005PackageVersion>
+    <Baracff2005PackageVersion>2.1.0</Baracff2005PackageVersion>
     <Fzzacff2005PackageVersion>
     </Fzzacff2005PackageVersion>
     <ASDacff2005PackageVersion>
