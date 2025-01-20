@@ -4,10 +4,8 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <Fooad5749afPackageVersion>
-    </Fooad5749afPackageVersion>
-    <Barad5749afPackageVersion>
-    </Barad5749afPackageVersion>
+    <Fooad5749afPackageVersion>1.1.0</Fooad5749afPackageVersion>
+    <Barad5749afPackageVersion>2.1.0</Barad5749afPackageVersion>
     <Fzzad5749afPackageVersion>
     </Fzzad5749afPackageVersion>
     <ASDad5749afPackageVersion>
