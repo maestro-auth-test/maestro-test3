@@ -6,5 +6,9 @@
   <PropertyGroup>
     <A1190fafdaPackageVersion>1.1.0</A1190fafdaPackageVersion>
     <A2190fafdaPackageVersion>1.1.0</A2190fafdaPackageVersion>
+    <B1190fafdaPackageVersion>
+    </B1190fafdaPackageVersion>
+    <B2190fafdaPackageVersion>
+    </B2190fafdaPackageVersion>
   </PropertyGroup>
 </Project>
