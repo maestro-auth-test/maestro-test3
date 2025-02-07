@@ -4,10 +4,8 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <Foocad2f5b6PackageVersion>
-    </Foocad2f5b6PackageVersion>
-    <Barcad2f5b6PackageVersion>
-    </Barcad2f5b6PackageVersion>
+    <Foocad2f5b6PackageVersion>1.1.0</Foocad2f5b6PackageVersion>
+    <Barcad2f5b6PackageVersion>2.1.0</Barcad2f5b6PackageVersion>
     <Fzzcad2f5b6PackageVersion>
     </Fzzcad2f5b6PackageVersion>
     <ASDcad2f5b6PackageVersion>
