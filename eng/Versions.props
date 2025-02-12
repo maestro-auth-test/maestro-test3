@@ -4,9 +4,7 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <A10cb61fabPackageVersion>
-    </A10cb61fabPackageVersion>
-    <A20cb61fabPackageVersion>
-    </A20cb61fabPackageVersion>
+    <A10cb61fabPackageVersion>1.1.0</A10cb61fabPackageVersion>
+    <A20cb61fabPackageVersion>1.1.0</A20cb61fabPackageVersion>
   </PropertyGroup>
 </Project>
