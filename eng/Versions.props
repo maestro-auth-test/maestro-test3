@@ -4,10 +4,8 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <Foofd799adcPackageVersion>
-    </Foofd799adcPackageVersion>
-    <Barfd799adcPackageVersion>
-    </Barfd799adcPackageVersion>
+    <Foofd799adcPackageVersion>1.1.0</Foofd799adcPackageVersion>
+    <Barfd799adcPackageVersion>2.1.0</Barfd799adcPackageVersion>
     <Fzzfd799adcPackageVersion>
     </Fzzfd799adcPackageVersion>
     <ASDfd799adcPackageVersion>
