@@ -4,10 +4,8 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <Fooc05d2b74PackageVersion>
-    </Fooc05d2b74PackageVersion>
-    <Barc05d2b74PackageVersion>
-    </Barc05d2b74PackageVersion>
+    <Fooc05d2b74PackageVersion>1.1.0</Fooc05d2b74PackageVersion>
+    <Barc05d2b74PackageVersion>2.1.0</Barc05d2b74PackageVersion>
     <Fzzc05d2b74PackageVersion>
     </Fzzc05d2b74PackageVersion>
     <ASDc05d2b74PackageVersion>
