@@ -2,6 +2,22 @@
 <Dependencies>
   <!-- Elements contains all product dependencies -->
   <ProductDependencies>
+    <Dependency Name="Foo.bdf69234" Version="">
+      <Uri>https://github.com/maestro-auth-test/maestro-test2</Uri>
+      <Sha />
+    </Dependency>
+    <Dependency Name="Bar.bdf69234" Version="">
+      <Uri>https://github.com/maestro-auth-test/maestro-test2</Uri>
+      <Sha />
+    </Dependency>
+    <Dependency Name="Fzz.bdf69234" Version="" CoherentParentDependency="Foo.bdf69234">
+      <Uri>https://github.com/maestro-auth-test/maestro-test1</Uri>
+      <Sha />
+    </Dependency>
+    <Dependency Name="ASD.bdf69234" Version="" CoherentParentDependency="Foo.bdf69234">
+      <Uri>https://github.com/maestro-auth-test/maestro-test1</Uri>
+      <Sha />
+    </Dependency>
   </ProductDependencies>
   <ToolsetDependencies>
   </ToolsetDependencies>
