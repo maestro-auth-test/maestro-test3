@@ -4,10 +4,8 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <Fooa1674fabPackageVersion>
-    </Fooa1674fabPackageVersion>
-    <Bara1674fabPackageVersion>
-    </Bara1674fabPackageVersion>
+    <Fooa1674fabPackageVersion>1.1.0</Fooa1674fabPackageVersion>
+    <Bara1674fabPackageVersion>2.1.0</Bara1674fabPackageVersion>
     <Fzza1674fabPackageVersion>
     </Fzza1674fabPackageVersion>
     <ASDa1674fabPackageVersion>
