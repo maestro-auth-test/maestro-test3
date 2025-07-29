@@ -2,4 +2,11 @@
 <Project>
   <PropertyGroup>
   </PropertyGroup>
+  <!--Package versions-->
+  <PropertyGroup>
+    <Fooce0995cdPackageVersion>1.1.0</Fooce0995cdPackageVersion>
+    <Barce0995cdPackageVersion>2.1.0</Barce0995cdPackageVersion>
+    <Fzzce0995cdPackageVersion>1.1.0</Fzzce0995cdPackageVersion>
+    <ASDce0995cdPackageVersion>1.1.1</ASDce0995cdPackageVersion>
+  </PropertyGroup>
 </Project>
