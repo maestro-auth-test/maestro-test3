@@ -6,5 +6,7 @@
   <PropertyGroup>
     <A1fa880523PackageVersion>1.1.0</A1fa880523PackageVersion>
     <A2fa880523PackageVersion>1.1.0</A2fa880523PackageVersion>
+    <B1fa880523PackageVersion>2.1.0</B1fa880523PackageVersion>
+    <B2fa880523PackageVersion>2.1.0</B2fa880523PackageVersion>
   </PropertyGroup>
 </Project>
