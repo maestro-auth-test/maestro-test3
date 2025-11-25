@@ -2,4 +2,9 @@
 <Project>
   <PropertyGroup>
   </PropertyGroup>
+  <!--Package versions-->
+  <PropertyGroup>
+    <A19df8796aPackageVersion>1.1.0</A19df8796aPackageVersion>
+    <A29df8796aPackageVersion>1.1.0</A29df8796aPackageVersion>
+  </PropertyGroup>
 </Project>
