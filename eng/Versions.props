@@ -2,4 +2,11 @@
 <Project>
   <PropertyGroup>
   </PropertyGroup>
+  <!--Package versions-->
+  <PropertyGroup>
+    <Food78cbffbPackageVersion>1.1.0</Food78cbffbPackageVersion>
+    <Bard78cbffbPackageVersion>2.1.0</Bard78cbffbPackageVersion>
+    <Fzzd78cbffbPackageVersion>1.1.0</Fzzd78cbffbPackageVersion>
+    <ASDd78cbffbPackageVersion>1.1.1</ASDd78cbffbPackageVersion>
+  </PropertyGroup>
 </Project>
