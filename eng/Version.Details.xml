@@ -4,11 +4,11 @@
   <ProductDependencies>
     <Dependency Name="Foo.a74e3350" Version="1.1.0">
       <Uri>https://github.com/maestro-auth-test/maestro-test2</Uri>
-      <Sha />
+      <Sha>cc1a27107a1f4c4bc5e2f796c5ef346f60abb404</Sha>
     </Dependency>
     <Dependency Name="Bar.a74e3350" Version="2.1.0">
       <Uri>https://github.com/maestro-auth-test/maestro-test2</Uri>
-      <Sha />
+      <Sha>cc1a27107a1f4c4bc5e2f796c5ef346f60abb404</Sha>
     </Dependency>
     <Dependency Name="Fzz.a74e3350" Version="1.1.0" CoherentParentDependency="Foo.a74e3350">
       <Uri>https://github.com/maestro-auth-test/maestro-test1</Uri>
